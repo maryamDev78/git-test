@@ -12,5 +12,3 @@ menuBtn.addEventListener("click",function (){
     }
 })
 
-const page {
-}
