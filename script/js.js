@@ -11,3 +11,6 @@ menuBtn.addEventListener("click",function (){
         menuBtnIcon.classList = "fa fa-bars"
     }
 })
+
+const page {
+}
